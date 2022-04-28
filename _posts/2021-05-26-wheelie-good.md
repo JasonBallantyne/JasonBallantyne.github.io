@@ -43,3 +43,6 @@ page, which provides future and predictive features.
 
 Both pages contain a main map section and a information flex box. Interacting with the map or the drop downs will populate the scrollable flex
 box with dynamic data. 
+
+{: .box-note}
+**Note:** This application has since been taken offline due to my expired amazon credits :).
