@@ -3,10 +3,9 @@ layout: post
 title: Wheelie Good
 subtitle: Dublin Bikes self-service web application
 cover-img: /assets/img/Shanard.jpg
-thumbnail-img: /assets/img/ezgif-1-32e078d9f3.gif
+thumbnail-img: /assets/img/wheeliegood.gif
 gh-repo: JasonBallantyne/BestBus
 gh-badge: [star, fork, follow]
-share-img: /assets/img/ezgif-1-32e078d9f3.gif
 tags: [data-science, pandas, numpy, seaborn, random-forest, linear-regression, knn, logistic-regression, decision-tree]
 ---
 
