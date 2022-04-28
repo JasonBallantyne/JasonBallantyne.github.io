@@ -2,7 +2,7 @@
 layout: post
 title: Wheelie Good
 subtitle: Dublin Bikes self-service web application
-cover-img: /assets/img/Bikes.jpg
+cover-img: /assets/img/Bikes1.jpg
 thumbnail-img: /assets/img/wheeliegood.gif
 gh-repo: JasonBallantyne/wheelieGood
 gh-badge: [star, fork, follow]
