@@ -2,11 +2,11 @@
 layout: post
 title: Covid-19 Predictive Models
 subtitle: Training and evaluating prediction models for the Covid-19 pandemic
-cover-img: /assets/img/Bikes1.png
+cover-img: /assets/img/CovidStock.jpg
 thumbnail-img: /assets/img/CovidHeatMap.png
-gh-repo: JasonBallantyne/wheelieGood
+gh-repo: JasonBallantyne/DataAnalytics_PredictiveModels
 gh-badge: [star, fork, follow]
-tags: [data-science, pandas, numpy, random-forest, sklearn, linear-regression, amazon-web-services, api, flask]
+tags: [data-science, pandas, numpy, seaborn, scipy, sklearn, random-forest, linear-regression, logistic-regression]
 ---
 
 This project focuses on training and evaluating prediction models for the Covid-19 pandemic to find a model which best predicted the binary outcome of death. 
