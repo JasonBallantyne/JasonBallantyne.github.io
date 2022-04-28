@@ -4,9 +4,9 @@ title: Wheelie Good
 subtitle: Dublin Bikes self-service web application
 cover-img: /assets/img/Shanard.jpg
 thumbnail-img: /assets/img/wheeliegood.gif
-gh-repo: JasonBallantyne/BestBus
+gh-repo: JasonBallantyne/wheelieGood
 gh-badge: [star, fork, follow]
-tags: [data-science, pandas, numpy, seaborn, random-forest, linear-regression, knn, logistic-regression, decision-tree]
+tags: [data-science, pandas, numpy, random-forest, sklearn, linear-regression, amazon-web-services, api, flask]
 ---
 
 A clean and functional web application designed for a user to navigate the Dublin Bikes self-service rental system. 
