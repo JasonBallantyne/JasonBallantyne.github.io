@@ -3,7 +3,7 @@ layout: post
 title: Irish Crime Analysis
 subtitle: An analysis and report of crime in Ireland from 2003 to 2019 in R
 cover-img: /assets/img/Crime3.webp
-thumbnail-img: /assets/img/R3.webp
+thumbnail-img: /assets/img/Ranalysis.png
 gh-repo: JasonBallantyne/IrishCrimeAnalysis
 gh-badge: [star, fork, follow]
 tags: [data-science, r, ggplot2, dplyr, tidyverse, data-visualization, s4class, reshape2, confidence-interval]
