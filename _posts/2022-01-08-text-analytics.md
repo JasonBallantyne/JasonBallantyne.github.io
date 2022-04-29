@@ -2,7 +2,7 @@
 layout: post
 title: Text Analytics for Big Data
 subtitle: Discovering meaning in big data through text analytics
-cover-img: /assets/img/textanalytics2.png
+cover-img: /assets/img/text-analytics4.jpg
 thumbnail-img: /assets/img/text-analytics1.png
 gh-repo: JasonBallantyne/TextAnalytics
 gh-badge: [star, fork, follow]
