@@ -2,7 +2,7 @@
 layout: post
 title: Implementing Naïve Bayes from Scratch
 subtitle: Creating a class that implements Gaussian Naïve Bayes from scratch.
-cover-img: /assets/img/CovidCleaning4.jpg
+cover-img: /assets/img/NaiveBayes.jpg
 thumbnail-img: /assets/img/CovidHeatMap.png
 gh-repo: JasonBallantyne/NaiveBayesFromScratch
 gh-badge: [star, fork, follow]
