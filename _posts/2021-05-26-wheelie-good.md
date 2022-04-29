@@ -45,4 +45,4 @@ Both pages contain a main map section and a information flex box. Interacting wi
 box with dynamic data. 
 
 {: .box-note}
-**Note:** This application has since been taken offline due to my expired amazon credits.
+**Note:** This application has since been taken offline due to my expired AWS credits.
