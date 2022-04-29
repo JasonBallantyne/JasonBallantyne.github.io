@@ -3,7 +3,7 @@ layout: post
 title: Text Analytics for Big Data
 subtitle: Discovering meaning in big data through text analytics
 cover-img: /assets/img/textanalytics1.png
-thumbnail-img: /assets/img/text-analytics.png
+thumbnail-img: /assets/img/text-analytics1.png
 gh-repo: JasonBallantyne/TextAnalytics
 gh-badge: [star, fork, follow]
 tags: [data-science, nlp, nltk, natural-language-processing, r, python3, pandas, numpy, seaborn, sklearn]
