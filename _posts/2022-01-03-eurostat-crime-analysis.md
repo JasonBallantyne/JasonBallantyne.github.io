@@ -2,7 +2,7 @@
 layout: post
 title: Eurostat Crime Analysis
 subtitle: Manipulating, analysing and creating a creative component to the EurostatCrime2019 dataset using R
-cover-img: /assets/img/Eurostat.jpeg
+cover-img: /assets/img/Eurostat.jpg
 thumbnail-img: /assets/img/R3.webp
 gh-repo: JasonBallantyne/EurostatCrime2019Analysis
 gh-badge: [star, fork, follow]
