@@ -2,7 +2,7 @@
 layout: post
 title: Simple Games System
 subtitle: Three games written in Java, complete with points and a leaderboard
-cover-img: /assets/img/Games1.webp
+cover-img: /assets/img/Game2.jpg
 thumbnail-img: /assets/img/java.png
 gh-repo: JasonBallantyne/SimpleGamesSystem
 gh-badge: [star, fork, follow]
