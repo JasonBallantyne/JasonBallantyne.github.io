@@ -2,7 +2,7 @@
 layout: post
 title: Covid-19 Predictive Models
 subtitle: Training and evaluating prediction models for the Covid-19 pandemic
-cover-img: /assets/img/CovidWallpaper.jpg
+cover-img: /assets/img/CovidStockmarket.jpg
 thumbnail-img: /assets/img/CovidHeatMap.png
 gh-repo: JasonBallantyne/DataAnalytics_PredictiveModels
 gh-badge: [star, fork, follow]
