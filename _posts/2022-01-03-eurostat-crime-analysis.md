@@ -3,7 +3,7 @@ layout: post
 title: Eurostat Crime Analysis
 subtitle: Manipulating, analysing and creating a creative component to the EurostatCrime2019 dataset using R
 cover-img: /assets/img/Eurostat.jpg
-thumbnail-img: /assets/img/R3.webp
+thumbnail-img: /assets/img/Ranalysis.png
 gh-repo: JasonBallantyne/EurostatCrime2019Analysis
 gh-badge: [star, fork, follow]
 tags: [data-science, r, ggplot2, tidyverse, cowplot, data-visualization]
