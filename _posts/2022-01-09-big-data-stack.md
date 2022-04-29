@@ -2,8 +2,8 @@
 layout: post
 title: Big Data Stack
 subtitle: Managing complex concepts that form the Big Data stack using Bash, SQL/NoSQL, Hadoop, Spark and GraphX
-cover-img: /assets/img/CovidStockmarket.jpg
-thumbnail-img: /assets/img/CovidHeatMap.png
+cover-img: /assets/img/BigData.jpg
+thumbnail-img: /assets/img/BigData4.jpg
 gh-repo: JasonBallantyne/BigDataStack
 gh-badge: [star, fork, follow]
 tags: [data-engineering, bash, sql, spark, hadoop, nosql, graphx, big-data]
