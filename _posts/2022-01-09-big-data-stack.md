@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Big Data Stack
-subtitle: Managing concepts including Bash, SQL/NoSQL, Hadoop, Spark and GraphX
+subtitle: Managing concepts using Bash, SQL/NoSQL, Hadoop, Spark and GraphX
 cover-img: /assets/img/BigData2.jpg
 thumbnail-img: /assets/img/BigData1.jpg
 gh-repo: JasonBallantyne/BigDataStack
