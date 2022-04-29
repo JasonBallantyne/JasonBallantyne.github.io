@@ -2,8 +2,8 @@
 layout: post
 title: Simple Games System
 subtitle: Games system written in Java, containing three games, complete with points and a leaderboard
-cover-img: /assets/img/text-analytics5.jpg
-thumbnail-img: /assets/img/Game.jpg
+cover-img: /assets/img/Game.jpg
+thumbnail-img: /assets/img/java.png
 gh-repo: JasonBallantyne/SimpleGamesSystem
 gh-badge: [star, fork, follow]
 tags: [java, object-oriented-programming]
