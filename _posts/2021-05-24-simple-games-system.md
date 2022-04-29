@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simple Games System
-subtitle: Games system written in Java, containing three games, complete with points and a leaderboard
+subtitle: Three games written in Java, complete with points and a leaderboard
 cover-img: /assets/img/Games1.webp
 thumbnail-img: /assets/img/java.png
 gh-repo: JasonBallantyne/SimpleGamesSystem
