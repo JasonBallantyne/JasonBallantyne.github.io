@@ -2,8 +2,8 @@
 layout: post
 title: Implementing Naïve Bayes from Scratch
 subtitle: Creating a class that implements Gaussian Naïve Bayes from scratch.
-cover-img: /assets/img/NaiveBayes.jpg
-thumbnail-img: /assets/img/CovidHeatMap.png
+cover-img: /assets/img/ML.webp
+thumbnail-img: /assets/img/NaiveBayes.jpg
 gh-repo: JasonBallantyne/NaiveBayesFromScratch
 gh-badge: [star, fork, follow]
 tags: [data-science, naive-bayes, python3, object-oriented-programming, sklearn]
