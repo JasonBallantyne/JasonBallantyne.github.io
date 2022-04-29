@@ -2,7 +2,7 @@
 layout: post
 title: Covid-19 Cleaning and Preparation
 subtitle: Focus on data understanding, cleaning and preparation for the Covid-19 pandemic dataset
-cover-img: /assets/img/CovidCleaning2.jpg
+cover-img: /assets/img/CovidCleaning3.jpg
 thumbnail-img: /assets/img/covid19 image.webp
 gh-repo: https://github.com/JasonBallantyne/DataAnalytics_Prep
 gh-badge: [star, fork, follow]
