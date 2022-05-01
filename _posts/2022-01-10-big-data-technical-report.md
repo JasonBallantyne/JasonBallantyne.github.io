@@ -4,9 +4,9 @@ title: Big Data Technical Report
 subtitle: A technical report covering relational & NoSQL databases, Spark & Hadoop and Yesquel
 cover-img: /assets/img/BigDataPic.jpg
 thumbnail-img: /assets/img/BigData1.jpg
-gh-repo: JasonBallantyne/BigDataStack
+gh-repo: JasonBallantyne/BigDataReport
 gh-badge: [star, fork, follow]
-tags: [data-engineering, bash, sql, spark, hadoop, nosql, graphx, big-data]
+tags: [data-engineering, sql, spark, hadoop, nosql, big-data]
 ---
 
 A technical report based on the the following: Comparison between relational and NoSQL database management models. 
