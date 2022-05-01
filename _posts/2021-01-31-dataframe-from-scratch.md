@@ -2,8 +2,8 @@
 layout: post
 title: Implementing pandas from scratch
 subtitle: Programs to implement basic versions of some of the objects in Pandas
-cover-img: /assets/img/BigData.jpg
-thumbnail-img: /assets/img/big_data_dundas.png
+cover-img: /assets/img/coding.jpg
+thumbnail-img: /assets/img/Pandas_logo.svg.png
 gh-repo: JasonBallantyne/DataFrame
 gh-badge: [star, fork, follow]
 tags: [data-science, pandas, object-oriented-programming, python]
