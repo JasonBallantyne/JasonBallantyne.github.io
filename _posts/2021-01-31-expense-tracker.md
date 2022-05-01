@@ -2,8 +2,8 @@
 layout: post
 title: Expense Tracker
 subtitle: This program is a Kitty application that can keep track of shared expenses
-cover-img: /assets/img/BigData.jpg
-thumbnail-img: /assets/img/big_data_dundas.png
+cover-img: /assets/img/Piggy.jpg
+thumbnail-img: /assets/img/Python.png
 gh-repo: JasonBallantyne/ExpenseTracker
 gh-badge: [star, fork, follow]
 tags: [data-engineering, sql, spark, hadoop, nosql, big-data]
