@@ -2,7 +2,7 @@
 layout: post
 title: Cryptocurrency Technical Report
 subtitle: Technical comparison between Bitcoin, Ethereum & Cardano
-cover-img: /assets/img/cryptocoins.webp
+cover-img: /assets/img/cryptocurrency.jpg
 thumbnail-img: /assets/img/Bitcoin.png
 gh-repo: JasonBallantyne/CryptocurrencyTechnicalReport
 gh-badge: [star, fork, follow]
