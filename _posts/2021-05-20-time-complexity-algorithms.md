@@ -2,8 +2,8 @@
 layout: post
 title: Time Complexity Algorithms
 subtitle: Implementation of time complexity and curve fitting algorithms
-cover-img: /assets/img/BigDataPic.jpg
-thumbnail-img: /assets/img/BigData1.jpg
+cover-img: /assets/img/time.jpeg
+thumbnail-img: /assets/img/numpy.png
 gh-repo: JasonBallantyne/TimeComplexityAlgorithms
 gh-badge: [star, fork, follow]
 tags: [data-engineering, bash, sql, spark, hadoop, nosql, graphx, big-data]
