@@ -2,7 +2,7 @@
 layout: post
 title: Expense Tracker
 subtitle: This program is a Kitty application that can keep track of shared expenses
-cover-img: /assets/img/Piggy1.jpg
+cover-img: /assets/img/Piggy.jpg
 thumbnail-img: /assets/img/Python.png
 gh-repo: JasonBallantyne/ExpenseTracker
 gh-badge: [star, fork, follow]
