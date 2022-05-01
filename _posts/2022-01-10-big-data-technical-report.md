@@ -2,7 +2,7 @@
 layout: post
 title: Big Data Technical Report
 subtitle: A technical report covering relational & NoSQL databases, Spark & Hadoop and Yesquel
-cover-img: /assets/img/BigDataPic.jpg
+cover-img: /assets/img/BigData.jpg
 thumbnail-img: /assets/img/big_data_dundas.png
 gh-repo: JasonBallantyne/BigDataReport
 gh-badge: [star, fork, follow]
