@@ -2,8 +2,8 @@
 layout: post
 title: Social Media System
 subtitle: Social media system containing client-server architecture written in bash
-cover-img: /assets/img/BigData.jpg
-thumbnail-img: /assets/img/big_data_dundas.png
+cover-img: /assets/img/SocialMedia.jpg
+thumbnail-img: /assets/img/Bash.png
 gh-repo: JasonBallantyne/SocialMediaSystem
 gh-badge: [star, fork, follow]
 tags: [linux, bash, ubuntu, shell-script]
