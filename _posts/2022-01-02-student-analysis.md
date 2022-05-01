@@ -2,8 +2,8 @@
 layout: post
 title: Student Analysis
 subtitle: Analysis based on student's substance use and sporting behaviour using R
-cover-img: /assets/img/Eurostat.jpg
-thumbnail-img: /assets/img/Ranalysis.png
+cover-img: /assets/img/Student.jpg
+thumbnail-img: /assets/img/Rstudio.png
 gh-repo: JasonBallantyne/StudentAnalysis
 gh-badge: [star, fork, follow]
 tags: [data-science, r, s3class, data-visualization]
