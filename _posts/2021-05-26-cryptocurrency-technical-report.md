@@ -9,6 +9,9 @@ gh-badge: [star, fork, follow]
 tags: [cryptocurrency, bitcoin, ethereum, cardano]
 ---
 
+
+This report is a technical comparison where we will examine the underlying technology and architecture, the security, price, scalability and performance of Bitcoin and Ethereum. Subsequently we will analyse Cardano using the same criteria.
+
 # Underlying Technology and Architecture
 
 Both Bitcoin (BTC) and Ethereum (ETH) are built using blockchain technology. Although the concept of blockchain existed as far back as 1991, Bitcoin’s creation in 2009 created a new use case for the technology and brought it to the fore. Bitcoin aimed to use blockchain technology to provide an alternative to national currencies (Simply Explained, 2017).
