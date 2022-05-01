@@ -3,7 +3,7 @@ layout: post
 title: Naïve Bayes handling missing values
 subtitle: Implementing a Gaussian Naïve Bayes function in python that handles missing values
 cover-img: /assets/img/Ai1.webp
-thumbnail-img: /assets/img/PythonML1.jpg
+thumbnail-img: /assets/img/Python.png
 gh-repo: JasonBallantyne/NaiveBayesMissingValues
 gh-badge: [star, fork, follow]
 tags: [data-science, naive-bayes, python3, object-oriented-programming, sklearn]
