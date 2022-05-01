@@ -2,8 +2,8 @@
 layout: post
 title: Multiprocessing in Python
 subtitle: Evaluating speedup derived from using multiple CPU cores
-cover-img: /assets/img/PythonMulti.jpg
-thumbnail-img: /assets/img/CPU.jpg
+cover-img: /assets/img/CPU.jpg
+thumbnail-img: /assets/img/PythonMulti.jpg
 gh-repo: JasonBallantyne/Multiprocessing
 gh-badge: [star, fork, follow]
 tags: [multiprocessing, numpy, math, scipy, matplotlib, timeit]
