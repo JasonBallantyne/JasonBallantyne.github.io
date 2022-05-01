@@ -89,7 +89,7 @@ New York Times, The., 2021. Cryptocurrency’s Newest Frontier. Available at: <h
 
 Reiff, N., 2020. Bitcoin vs. Ethereum: What’s the Difference? <https://www.investopedia.com/articles/investing/031416/bitcoin-vs-ethereum-driven-different-purposes.asp> 
 
-Richards, S., 2021. Intro to Ethereum | ethereum.org. [online] ethereum.org. Available at: <https://ethereum.org/en/developers/docs/intro-to-ethereum/>. 
+Richards, S., 2021. Intro to Ethereum, ethereum.org. [online] ethereum.org. Available at: <https://ethereum.org/en/developers/docs/intro-to-ethereum/>. 
 
 Rodeck, D., 2021. What Is Ethereum And How Does It Work?. [online] Forbes.com. Available at: <https://www.forbes.com/advisor/investing/what-is-ethereum-ether/>. 
 
@@ -103,4 +103,4 @@ The Coin Offering. 2019. Is Cardano (ADA) a better project than Ethereum (ETH)?.
 
 Voell, Z., 2020. Ethereum Classic Hit by Third 51% Attack in a Month. [online] CoinDesk. Available at: <https://www.coindesk.com/ethereum-classic-blockchain-subject-to-yet-another-51-attack>. 
 
-Werner, V., 2021. A Deep Dive Into Cardano | CoinMarketCap. Available at: <https://coinmarketcap.com/alexandria/article/a-deep-dive-into-cardano>
+Werner, V., 2021. A Deep Dive Into Cardano, CoinMarketCap. Available at: <https://coinmarketcap.com/alexandria/article/a-deep-dive-into-cardano>
