@@ -2,8 +2,8 @@
 layout: post
 title: Cryptocurrency Technical Report
 subtitle: Technical comparison between Bitcoin, Ethereum & Cardano
-cover-img: /assets/img/BigData.jpg
-thumbnail-img: /assets/img/big_data_dundas.png
+cover-img: /assets/img/cryptocurrency.jpg
+thumbnail-img: /assets/img/Bitcoin.png
 gh-repo: JasonBallantyne/CryptocurrencyTechnicalReport
 gh-badge: [star, fork, follow]
 tags: [cryptocurrency, bitcoin, ethereum, cardano]
