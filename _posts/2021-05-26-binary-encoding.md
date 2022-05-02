@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/binary.png
 gh-repo: JasonBallantyne/BinaryEncoding
 gh-badge: [star, fork, follow]
 tags: [data-science, naive-bayes, python3, object-oriented-programming, sklearn]
-
+---
 
 Python functions that: 
 1. Accepts binary and returns resulting modulation in 4B/5B encoding 
