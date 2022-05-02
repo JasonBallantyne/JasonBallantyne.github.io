@@ -17,7 +17,7 @@ For this analysis, we focus on using the data collected by CDC to build a data a
 The dataset we work with is a sample of the public data released by CDC, where the outcome for the target feature death_yn is known (i.e., either 'yes' or 'no').
 The goal in this homework is to work with the data to build and evaluate prediction models that capture the relationship between the descriptive features and the target feature death_yn.
 
-# Visualising of the correlation between the catergorical features vs categorical features. 
+### Visualising of the correlation between the catergorical features vs categorical features. 
 
 ![png](/assets/img/CovidHeatMap.png)
 
