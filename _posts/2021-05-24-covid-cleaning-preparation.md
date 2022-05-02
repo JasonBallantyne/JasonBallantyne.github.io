@@ -3,7 +3,7 @@ layout: post
 title: Covid-19 Cleaning and Preparation
 subtitle: Focus on data understanding, cleaning and preparation for the Covid-19 pandemic dataset
 cover-img: /assets/img/CovidCleaning3.jpg
-thumbnail-img: /assets/img/covid19 image.webp
+thumbnail-img: /assets/img/covid-19Logo.png
 gh-repo: https://github.com/JasonBallantyne/DataAnalytics_Prep
 gh-badge: [star, fork, follow]
 tags: [data-science, pandas, numpy, seaborn, data-analysis, matplotlib, data-visualization]
