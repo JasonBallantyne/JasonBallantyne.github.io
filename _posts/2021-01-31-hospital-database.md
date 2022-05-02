@@ -15,6 +15,6 @@ By detailing the position and skills involved combined with the candidate and th
 A clear and concise interview process can be formulated in the interview details table.
 
 
-![pdf](/assets/img/ballantyne13432788.pdf)
+![png](/assets/img/ERDiagramHospital.png)
 
 
