@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Database Design
-subtitle: Database design for an Airport Management System, complete with an E-R diagram
-cover-img: /assets/img/Airplane.jpg
-thumbnail-img: /assets/img/database.jpg
-gh-repo: JasonBallantyne/DatabaseDesign
+title: Javascript website using JSON data
+subtitle: Focuses on the use of Javascript to read, manipulate and present JSON data in a webpage
+cover-img: /assets/img/JS2.jpeg
+thumbnail-img: /assets/img/javascript.jpg
+gh-repo: JasonBallantyne/JavaScript_JSON
 gh-badge: [star, fork, follow]
-tags: [database-management, er-diagram]
+tags: [javascript, css, html, json]
 ---
 
-Database designed for an Airport Management System with an E-R diagram translated into a relational schema.
+JSON file contains information on the schedule of the 2020 ACM Conference on Human Factors in Computing Systems (CHI'20). We utilise Javascript to read, manipulate and present JSON data in a webpage. 
