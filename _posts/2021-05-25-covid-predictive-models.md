@@ -19,7 +19,7 @@ The goal in this homework is to work with the data to build and evaluate predict
 
 # Visualising of the correlation between the catergorical features vs categorical features. 
 
-![png](/assets/img/Video_Games/CovidHeatMap.png)
+![png](/assets/img/CovidHeatMap.png)
 
 
 We carry out the following tasks:
