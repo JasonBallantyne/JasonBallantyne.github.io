@@ -11,4 +11,4 @@ tags: [database-management, er-diagram]
 
 Database designed for an Airport Management System with an E-R diagram translated into a relational schema.
 
-![png](/assets/img/Video_Games/ERDiagram3-Page-2.png)
+![png](/assets/img/ERDiagram3-Page-2.png)
