@@ -2,7 +2,7 @@
 layout: post
 title: Abstract Data Types
 subtitle: Implementing linked lists, stacks and queue data strcutures
-cover-img: /assets/img/datastructures.jpg
+cover-img: /assets/img/abstract.webp
 thumbnail-img: /assets/img/maxresdefault.jpg
 gh-repo: JasonBallantyne/AbstractDataTypes
 gh-badge: [star, fork, follow]
