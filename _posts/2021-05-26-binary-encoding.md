@@ -2,7 +2,7 @@
 layout: post
 title: Binary Encoding
 subtitle: Programs that accept binary and return 4B/5B and apply hamming encoding
-cover-img: /assets/img/binary1.jpg
+cover-img: /assets/img/binary.webp
 thumbnail-img: /assets/img/binary.png
 gh-repo: JasonBallantyne/BinaryEncoding
 gh-badge: [star, fork, follow]
