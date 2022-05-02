@@ -6,7 +6,7 @@ cover-img: /assets/img/binary.webp
 thumbnail-img: /assets/img/binary.png
 gh-repo: JasonBallantyne/BinaryEncoding
 gh-badge: [star, fork, follow]
-tags: [data-science, naive-bayes, python3, object-oriented-programming, sklearn]
+tags: [binary, encoder, object-oriented-programming]
 ---
 
 Python functions that: 
