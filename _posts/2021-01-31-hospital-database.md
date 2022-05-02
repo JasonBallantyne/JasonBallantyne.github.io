@@ -6,7 +6,7 @@ cover-img: /assets/img/hospital.jpg
 thumbnail-img: /assets/img/sql.png
 gh-repo: JasonBallantyne/HospitalDatabase
 gh-badge: [star, fork, follow]
-tags: [database-management, er-diagram]
+tags: [database-management, sql, er-diagram]
 ---
 
 
