@@ -14,6 +14,7 @@ Included are databases containing information for interview details, position de
 By detailing the position and skills involved combined with the candidate and the candidate skills alongside the hospital details. 
 A clear and concise interview process can be formulated in the interview details table.
 
+# ER Diagram of Hospital Database Schema
 
 ![png](/assets/img/ERDiagramHospital.png)
 
