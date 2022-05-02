@@ -10,8 +10,8 @@ tags: [data-science, naive-bayes, python3, object-oriented-programming, sklearn]
 ---
 
 Python functions that: 
-1. Accepts binary and returns resulting modulation in 4B/5B encoding 
-2. Accepts binary and returns the sequence after hamming encoding has been applied
+1. Accepts binary and returns resulting modulation in 4B/5B encoding. 
+2. Accepts binary and returns the sequence after hamming encoding has been applied.
 
 
 # BinaryEncoding
