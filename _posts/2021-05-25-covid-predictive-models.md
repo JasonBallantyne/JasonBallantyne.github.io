@@ -3,7 +3,7 @@ layout: post
 title: Covid-19 Predictive Models
 subtitle: Training and evaluating prediction models for the Covid-19 pandemic
 cover-img: /assets/img/CovidCleaning4.jpg
-thumbnail-img: /assets/img/CovidHeatMap.png
+thumbnail-img: /assets/img/covid19 image.webp
 gh-repo: JasonBallantyne/DataAnalytics_PredictiveModels
 gh-badge: [star, fork, follow]
 tags: [data-science, pandas, numpy, seaborn, scipy, sklearn, random-forest, linear-regression, logistic-regression]
@@ -16,6 +16,11 @@ For this analysis, we focus on using the data collected by CDC to build a data a
 
 The dataset we work with is a sample of the public data released by CDC, where the outcome for the target feature death_yn is known (i.e., either 'yes' or 'no').
 The goal in this homework is to work with the data to build and evaluate prediction models that capture the relationship between the descriptive features and the target feature death_yn.
+
+# Visualising of the correlation between the catergorical features vs categorical features. 
+
+![png](/assets/img/Video_Games/CovidHeatMap.png)
+
 
 We carry out the following tasks:
 1. Exploring relationships between feature pairs and selecting/transforming promising features based on a given training set.
