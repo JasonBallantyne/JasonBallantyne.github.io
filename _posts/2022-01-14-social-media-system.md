@@ -13,6 +13,9 @@ Implementation of a social media system containing client-server architecture th
 
 This is a project based on a basic social media system I have implemented in bash over the course of Winter 2020. 
 
+{: .box-note}
+**Github Link:** Full repository can be found [here](https://github.com/JasonBallantyne/SocialMediaSystem)
+
 # Components 
 
 It is comprised of a create.sh, add.sh, post.sh, show.sh, P.sh, V.sh, client.sh, and server.sh. 
