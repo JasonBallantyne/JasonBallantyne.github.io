@@ -8,10 +8,7 @@ My name is Jason Ballantyne, I am currently a Cyber Security Data Engineer at De
 
 Prior to my studies in Computer Science, I worked as a Data Analyst and Product Analyst in the financial industry. It was during this time that I discovered my passion for drawing actionable insights through data analytical solutions which in turn led me to pursue a full time Computer Science masters.
 
-Please feel free to reach out with any questions about the UCD MSc in Computer Science or any future opportunities!
-
-
-
+If you have any questions about the UCD MSc in Computer Science, future opportunities, or would just like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jason-ballantyne)!
 
 
 <!---
