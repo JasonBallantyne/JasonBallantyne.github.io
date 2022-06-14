@@ -10,3 +10,6 @@ tags: [java, object-oriented-programming]
 ---
 
 A breakdown of various Java exercises, demonstrating object oriented programming as well as functional programming.
+
+{: .box-note}
+**Github Link:** Full repository can be found [here](https://github.com/JasonBallantyne/JavaMiniAssignments)
