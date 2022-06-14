@@ -11,6 +11,9 @@ tags: [data-science, r, ggplot2, dplyr, tidyverse, data-visualization, s4class, 
 
 An analysis and report of crime in Ireland from 2003 to 2019 in R. A report of the key functionality of dplyr and a confidence interval function, complete with methods to print, summarise and plot the function in R.
 
+{: .box-note}
+**Github Link:** Full repository can be found [here](https://github.com/JasonBallantyne/IrishCrimeAnalysis)
+
 ## Part 1
 Consists of an analysis of the all types of crimes committed in Ireland from the year 2003 to 2019. This data originated from StatBank, Central Statistics Office, Govt.
 of Ireland website, however the data set used can be found here: [https://www.kaggle.com/sameerkulkarni91/crime-in-ireland/version/1](https://www.kaggle.com/sameerkulkarni91/crime-in-ireland/version/1)
