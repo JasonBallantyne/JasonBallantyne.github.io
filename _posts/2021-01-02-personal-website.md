@@ -9,6 +9,7 @@ gh-badge: [star, fork, follow]
 tags: [css, html]
 ---
 
+A personal website that contains each of the following elements:
 
 1. "Links to both your own pages and external webpages." - (Internal) On the homepage, 5 clickable links to internal text pages in the middle. At the top right, a clickable home, gallery, facebook and about page.(External) - A facebook page link at the top right of every page. QR Code link on nutrition.html page. Embed youtube video on motivation.html page.
 
