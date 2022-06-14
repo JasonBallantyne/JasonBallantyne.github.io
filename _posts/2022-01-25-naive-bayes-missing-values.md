@@ -10,6 +10,9 @@ tags: [data-science, naive-bayes, python3, object-oriented-programming, sklearn]
 ---
 Implementing a Gaussian Naive Bayes function in python that handles missing values, both explicity in the classification algorithm and using imputation methods.
 
+{: .box-note}
+**Github Link:** Full repository can be found [here](https://github.com/JasonBallantyne/NaiveBayesMissingValues)
+
 ## Part 1
 Implementing a Gaussian Naive Bayes function that handles missing values. Gaussian Naive Bayes can handle missing values in training by calculating conditional probabilities on the values that are present. We explore two strategies:
 1. Consider missing values explicitly in the classification algorithm.
