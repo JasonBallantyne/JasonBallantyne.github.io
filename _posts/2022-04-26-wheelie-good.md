@@ -13,7 +13,7 @@ A clean and functional web application designed for a user to navigate the Dubli
 The user can find the closest available bike, plan their bike route, obtain weather information, visualise availability graphs as well as a host of additional features.
 
 {: .box-note}
-**Github Link:** Full repository can be found [here]((https://github.com/JasonBallantyne/wheelieGood)
+**Github Link:** Full repository can be found [here](https://github.com/JasonBallantyne/wheelieGood)
 
 ## 1. General Information
 
