@@ -12,6 +12,8 @@ tags: [data-engineering, sql, spark, hadoop, nosql, big-data]
 A technical report based on the the following: Comparison between relational and NoSQL database management models. 
 Advantages and drawbacks of Spark and Hadoop. A review of "Yesquel: scalable SQL storage for Web applications"
 
+{: .box-note}
+**Github Link:** Full repository can be found [here](https://github.com/JasonBallantyne/BigDataReport)
 
 ## Part 1
 Comparison between relational and NoSQL database management models and my impressions as to why one is better and in which context.
