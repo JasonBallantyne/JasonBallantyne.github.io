@@ -2,7 +2,7 @@
 layout: post
 title: Java Excercises
 subtitle: Solutions to mini-assignments and programming exercises in Java
-cover-img: /assets/img/codingjava.jpg
+cover-img: /assets/img/codingjava.jpeg
 thumbnail-img: /assets/img/java.png
 gh-repo: JasonBallantyne/JavaMiniAssignments
 gh-badge: [star, fork, follow]
