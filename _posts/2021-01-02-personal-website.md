@@ -2,7 +2,7 @@
 layout: post
 title: Personal Website
 subtitle: Development of my first personal website using html and css.
-cover-img: /assets/img/healthy.jpg
+cover-img: /assets/img/healthy.png
 thumbnail-img: /assets/img/Website.webp
 gh-repo: JasonBallantyne/PersonalWebsite
 gh-badge: [star, fork, follow]
