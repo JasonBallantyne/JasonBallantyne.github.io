@@ -10,3 +10,6 @@ tags: [multiprocessing, numpy, math, scipy, matplotlib, timeit]
 ---
 
 The objective of this project is to evaluate speedup derived from using multiple CPU cores through the multiprocessing facility in Python.
+
+{: .box-note}
+**Github Link:** Full repository can be found [here](https://github.com/JasonBallantyne/Multiprocessing)
