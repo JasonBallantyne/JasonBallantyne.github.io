@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: A little bit about myself....
+subtitle: A little bit about myself...
 ---
 
-My name is Jason Ballantyne, I am currently a Cyber Security Data Engineer at Dell. I have a MSc in Computer Science with a natural enthusiasm for data. 
+My name is Jason Ballantyne, I am currently a Cyber Security Data Engineer at Dell. I have a MSc in Computer Science and a natural enthusiasm for data. 
 
 Prior to my studies in Computer Science, I worked as a Data Analyst and Product Analyst in the financial industry. It was during this time that I discovered my passion for drawing actionable insights through data analytical solutions which in turn led me to pursue a full time Computer Science masters.
 
