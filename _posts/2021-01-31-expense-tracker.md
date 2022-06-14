@@ -27,4 +27,9 @@ The fund class prompts for 4 instances, consisting of:
 - Info
 - Event
 - Cost
-- Payee.
+- Payee
+
+{: .box-note}
+**Github Link:** Full repository can be found [here](https://github.com/JasonBallantyne/ExpenseTracker)
+
+
