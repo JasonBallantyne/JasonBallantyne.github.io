@@ -9,7 +9,10 @@ gh-badge: [star, fork, follow]
 tags: [data-science, numpy, scipy, tail-recursion, matplotlib, iterative-methods, linear-search, data-visualisation]
 ---
 
-This project focuses on finding the best and worst running times through the implementation of time complexity and curve fitting algorithms
+This project focuses on finding the best and worst running times through the implementation of time complexity and curve fitting algorithms.
+
+{: .box-note}
+**Github Link:** Full repository can be found [here](https://github.com/JasonBallantyne/TimeComplexityAlgorithms)
 
 This project carries out the following tasks:
 1. Write an algorithm to compute the factorial of a positive integer n.
