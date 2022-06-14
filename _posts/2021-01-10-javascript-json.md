@@ -10,3 +10,6 @@ tags: [javascript, css, html, json]
 ---
 
 JSON file contains information on the schedule of the 2020 ACM Conference on Human Factors in Computing Systems (CHI'20). We utilise Javascript to read, manipulate and present JSON data in a webpage. 
+
+{: .box-note}
+**Github Link:** Full repository can be found [here](https://github.com/JasonBallantyne/JavaScript_JSON)
