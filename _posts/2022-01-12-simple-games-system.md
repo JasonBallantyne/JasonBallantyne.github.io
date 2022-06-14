@@ -12,6 +12,9 @@ tags: [java, object-oriented-programming]
 
 This project implements three simple games: a *lottery game*, a *coin flip game* and a game of *rock-paper-scissors*. The program allocates points to a victorious player and stores these points on a leaderboard. 
 
+{: .box-note}
+**Github Link:** Full repository can be found [here](https://github.com/JasonBallantyne/SimpleGamesSystem)
+
 The program is ran using “App.java” and allows the user to select between being 1. New Player 2. New VIP Player or 3. Quit. The program then prompts the new player to enter his/her name before allowing the player to choose to play one of the games we alluded to earlier.
 
 As the players are created, their names and points are stored in a text file that is created as “leaderboard.txt” and displayed upon exit of the application.
