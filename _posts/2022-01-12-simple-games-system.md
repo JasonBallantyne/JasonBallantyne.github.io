@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simple Games System
+title: Java Games System
 subtitle: Three games written in Java, complete with points and a leaderboard
 cover-img: /assets/img/Game3.jpg
 thumbnail-img: /assets/img/java.png
