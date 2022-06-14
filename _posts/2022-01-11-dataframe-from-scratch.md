@@ -26,3 +26,6 @@ MyDataFrame contains a constructor and 5 methods also:
 - mean 
 - min 
 - max
+
+{: .box-note}
+**Github Link:** Full repository can be found [here](https://github.com/JasonBallantyne/DataFrame)
