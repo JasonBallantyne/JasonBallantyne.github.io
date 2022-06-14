@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Software Requirement Specification
-subtitle: Software Requirement Specification for a Covid-19 Track and Trace App.
+subtitle: Software requirement specification for a covid-19 track and trace app
 cover-img: /assets/img/srs.jpg
 thumbnail-img: /assets/img/L.png
 gh-repo: JasonBallantyne/SRS-Covid-App
@@ -12,6 +12,7 @@ tags: [srsdocument]
 Developing the specifications of a robust and effective track-and-trace mobile app that can reliably provide the data needed to stop the spread of the virus. 
 There are numerous complications of such an undertaking, and they all must be considered throughout the development process.
 There are a number of high level requirements:
+
 - Hardware: The app must run on all common mobile devices.
 - Identity: The user and those around the user must be represented anonymously
 and securely.
