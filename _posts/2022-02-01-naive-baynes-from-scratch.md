@@ -11,6 +11,9 @@ tags: [data-science, naive-bayes, python3, object-oriented-programming, sklearn]
 
 Creating a python class that implements Gaussian Naive Bayes from scratch, then test the performance and accuracy of my implementation against the GaussianNB implementation in scikit-learn.
 
+{: .box-note}
+**Github Link:** Full repository can be found [here](https://github.com/JasonBallantyne/NaiveBayesFromScratch)
+
 ## Part 1
 Creating a python class that implements Gaussian Naive Bayes from scratch.
 The conditional probabilities are calculated as follows:
