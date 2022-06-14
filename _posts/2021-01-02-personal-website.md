@@ -27,4 +27,7 @@ A personal website that contains each of the following elements:
   
 8. "Make use of both inline and block elements" - Inline block was used on every css page for the navigation bar at the top right.
 
+{: .box-note}
+**Github Link:** Full repository can be found [here](https://github.com/JasonBallantyne/PersonalWebsite)
+
   
