@@ -2,9 +2,9 @@
 layout: post
 title: Software Requirement Specification
 subtitle: Software Requirement Specification for a Covid-19 Track and Trace App.
-cover-img: /assets/img/PHP.webp
-thumbnail-img: /assets/img/PHP.png
-gh-repo: JasonBallantyne/PHP_Databases
+cover-img: /assets/img/srs.jpg
+thumbnail-img: /assets/img/L.png
+gh-repo: JasonBallantyne/SRS-Covid-App
 gh-badge: [star, fork, follow]
 tags: [srsdocument]
 ---
