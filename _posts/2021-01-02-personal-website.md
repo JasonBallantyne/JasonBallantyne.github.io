@@ -10,9 +10,7 @@ tags: [css, html]
 ---
 
 
-### Healthy Body, Healthy Mind Read Me:
-
-1."Links to both your own pages and external webpages." - (Internal) On the homepage, 5 clickable links to internal text pages in the middle. At the top right, a clickable home, gallery, facebook and about page.(External) - A facebook page link at the top right of every page. QR Code link on nutrition.html page. Embed youtube video on motivation.html page.
+1. "Links to both your own pages and external webpages." - (Internal) On the homepage, 5 clickable links to internal text pages in the middle. At the top right, a clickable home, gallery, facebook and about page.(External) - A facebook page link at the top right of every page. QR Code link on nutrition.html page. Embed youtube video on motivation.html page.
 
 2. "A navigation bar" - Navigation bar at the top right of every page. 5 Clickable links in middle of homepage.
  
@@ -22,7 +20,7 @@ tags: [css, html]
 
 5. "At least one local or embedded video" - Embed youtube video on motivation.html page.
 
-6. "At least four CSS3 and four HTML5 specific elements" - Examples of some elements I used were: CSS3: border-radius,text-decoration-color,text-overflow, background-color,float,margin,margin-bottom, margin-top, text-align. HTML: url, <a>, <button>, <iframe>, <img>, <th>, <ul>, <li>, <ol>, <td>. Along with many others.
+6. "At least four CSS3 and four HTML5 specific elements" - Examples of some elements I used were: CSS3: border-radius, text-decoration-color, text-overflow, background-color, float, margin, margin-bottom, margin-top, text-align.
   
 7. "Make use of the CSS positional properties (e.g. position, float)" - Position and Float were used on every css sheet, as I used position: absolute for the title and float: left or right were generally used for positioning an image or text.
   
