@@ -20,3 +20,6 @@ and securely.
 - Communication: Data must be shared and processed securely.
 - Hotspots: The app should show information about local hotspots to the user andwarn them if they approach too closely.
 - Motivations: Users need to trust the app to use it.
+
+{: .box-note}
+**Github Link:** Full repository can be found [here](https://github.com/JasonBallantyne/SRS-Covid-App)
