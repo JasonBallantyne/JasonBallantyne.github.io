@@ -8,4 +8,4 @@ My name is Jason Ballantyne. I'm a Senior Data Engineer at [V2 AI](https://v2.ai
 
 Originally from Ireland, I'm now based in Sydney, Australia.
 
-If you have any questions about my work, future opportunities, or would just like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jason-ballantyne)!
+If you have any questions about my work or would just like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jason-ballantyne)!
